@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.3.2
+MIDlet-Jar-Size: 444697
+RIM-COD-URL-2: app-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: app.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_pdap,net_rim_os,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_push,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_bbapi_browser
+RIM-COD-SHA1-2: f2 00 a5 03 31 45 a7 42 8f 44 1d 6c 17 d6 1b 80 9c 2b b1 07
+RIM-COD-URL-1: app-1.cod
+RIM-COD-SHA1-1: 14 d2 e2 d2 ca 7c 7d 9d 8d cc 52 bc 90 4b 6c fb 7f e1 f2 6e
+RIM-COD-Size-2: 58888
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 67520
+RIM-COD-Module-Name: app
+MIDlet-Name: PB App
+RIM-COD-Size: 71844
+RIM-COD-Creation-Time: 1323236759
+MIDlet-1: PB App,logov1.jpg,rim:foreground;WIDGET;
+RIM-COD-URL: app.cod
+MIDlet-Description: 2041 Project
+RIM-COD-SHA1: 8e 73 76 3d f7 77 0d ec 49 cd 5f bf 1d 1f d5 16 39 8d 68 23
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Unknown

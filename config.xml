@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.5.0.5" rim:header="2041 Project">
+  <name>Phonebook App</name>
+  <description>2041 Project</description>
+  <feature id="blackberry.find" required="true" version="1.0.0.0" /> 
+  <feature id="blackberry.pim.Address" required="true" version="1.0.0.0" />
+  <feature id="blackberry.pim.Contact" required="true" version="1.0.0.0" />
+  <feature id="blackberry.identity" required="true" version="1.0.0.0" />
+  <feature id="blackberry.system" required="true" version="1.0.0.0" />
+  <feature id="blackberry.invoke" required="true" version="1.0.0.0" />
+  <feature id="blackberry.invoke.PhoneArguments" required="true" version="1.0.0.0" />
+  <access subdomains="true" uri="http://www.cse.yorku.ca/" />
+  <content src="landing.html" />
+  <icon src="logo.png" />
+  <rim:navigation mode="focus" />
+</widget>
